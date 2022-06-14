@@ -71,13 +71,7 @@ I will be open to any contribution. If you have any idea, please let me know. Pl
 ## Thanks
 All the developers who made different Mods, Packages, Tools & APIs. Specially 
 - [Discord Bot Maker](https://store.steampowered.com/app/682130/Discord_Bot_Maker/)
-- [DBM Mods](https://github.com/dbm-network/mods)
-- [DBM Enhanced](https://github.com/AshTheDeveloper/DBM-Enhanced)
-- [DBM Canvas](https://github.com/LeonZ2019/dbm-canvas)
-- [DBM JMods](https://github.com/ContentJeka/JMODS)
-- [DBM Gotowka](https://github.com/Gotowka/autorskieakcje)
-- [DBM Mody](https://github.com/Gotowka/dbmmody)
-- [DBM Poland](https://github.com/DiscordBotsPoland/beta-mods)
+- [DBM Dashboard](https://github.com/dbm-network/extensions/tree/master/extensions/dbm_dashboard)
 
 ## Disclaimers
 <p>
